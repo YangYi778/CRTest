@@ -7,6 +7,9 @@ import lombok.Data;
  */
 @Data
 public class User {
+    /**
+     * 测试
+     */
     private int id;
     private String name;
     private int age;
